@@ -1,0 +1,12 @@
+C:\Users\alpha\source\repos\DeepLClient\YandexCloudTranslateClient\bin\Debug\net7.0\YandexCloudTranslateClient.deps.json
+C:\Users\alpha\source\repos\DeepLClient\YandexCloudTranslateClient\bin\Debug\net7.0\YandexCloudTranslateClient.dll
+C:\Users\alpha\source\repos\DeepLClient\YandexCloudTranslateClient\bin\Debug\net7.0\YandexCloudTranslateClient.pdb
+C:\Users\alpha\source\repos\DeepLClient\YandexCloudTranslateClient\obj\Debug\net7.0\YandexCloudTranslateClient.csproj.AssemblyReference.cache
+C:\Users\alpha\source\repos\DeepLClient\YandexCloudTranslateClient\obj\Debug\net7.0\YandexCloudTranslateClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alpha\source\repos\DeepLClient\YandexCloudTranslateClient\obj\Debug\net7.0\YandexCloudTranslateClient.AssemblyInfoInputs.cache
+C:\Users\alpha\source\repos\DeepLClient\YandexCloudTranslateClient\obj\Debug\net7.0\YandexCloudTranslateClient.AssemblyInfo.cs
+C:\Users\alpha\source\repos\DeepLClient\YandexCloudTranslateClient\obj\Debug\net7.0\YandexCloudTranslateClient.csproj.CoreCompileInputs.cache
+C:\Users\alpha\source\repos\DeepLClient\YandexCloudTranslateClient\obj\Debug\net7.0\YandexCloudTranslateClient.dll
+C:\Users\alpha\source\repos\DeepLClient\YandexCloudTranslateClient\obj\Debug\net7.0\refint\YandexCloudTranslateClient.dll
+C:\Users\alpha\source\repos\DeepLClient\YandexCloudTranslateClient\obj\Debug\net7.0\YandexCloudTranslateClient.pdb
+C:\Users\alpha\source\repos\DeepLClient\YandexCloudTranslateClient\obj\Debug\net7.0\ref\YandexCloudTranslateClient.dll
